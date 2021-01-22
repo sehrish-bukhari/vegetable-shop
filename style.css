@@ -1,0 +1,148 @@
+.row1{
+max-width: 75% !important;
+max-height: 50%  !important;
+/* border: 1px solid black !important; */
+color: black;
+background-color: green;
+margin-bottom: 10px;
+justify-content: center !important;
+
+}
+
+.dropdown-item{
+font-weight: bold;
+}
+.navbar{
+background-color: green !important;
+max-width: 100%;
+font-weight: bold;
+font-size: large;
+}   
+.navbar-brand{
+max-height: 50%;
+
+}
+.logo{
+max-width: 300px;
+max-height: 100px;
+line-height: 100px;
+}   
+.nav-link{
+color: black !important;
+text-decoration: bold !important;
+cursor: auto;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dropdown{
+color: white !important;
+}
+.collapse navbar-collapse{
+float: right !important;
+cursor: pointer;
+}
+h3{
+font-weight: bold;
+font-size: 1.5em;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 30px;
+color: chocolate;
+cursor: pointer;
+}
+
+    
+.row{
+justify-content: space-around;
+display: flex;
+flex-direction: row;
+margin-bottom: 10px;
+font-size: 1em;
+cursor: pointer;
+max-width: 100%;
+max-height: 50%;
+color: white;
+
+}
+
+h3{
+max-width: 90%;
+    float: right;
+    text-align: center;
+    font-weight: bolder;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 2em;
+}
+
+h4{
+font-weight: bold;
+cursor: pointer;
+} 
+.flex-container{
+width: 70px;
+height: 50px;
+line-height: 50px;
+border: 1px solid black;
+float: right;
+cursor: pointer;
+}
+body{
+background-color: black;
+padding-left : 0 !important;
+margin: 0 !important;
+
+
+
+
+
+}
+.falm{
+font-size: 25px;
+border-radius: 100px;
+
+}
+.col-sm-6{
+/* max-width: 40%;
+max-height: 70%; */
+border: 1px solid black;
+text-align: left;
+padding: 50px;
+/* margin-top: 100px; */
+background-color: black !important;
+color: white !important;
+cursor: pointer;
+margin-top: 200px;
+margin-bottom: 50px;
+}
+.btn{
+/* font-size: 30px; */
+width: 200px;
+margin-bottom: 20px;
+}
+.form-check{
+display: inline !important;
+padding: 30px;
+}
+.ff{
+width: 50p;
+height: 50px;
+border-radius: 50px;
+text-align: center;
+padding-top: 8px;
+color: white;
+
+}
+.ff:hover{
+color: white;
+background-color: black;
+}
+.col-sm{
+cursor: pointer;
+
+
+}
+.privacy{
+text-align: left;
+text-decoration: none;
+color: white;
+
+}
